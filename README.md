@@ -13,7 +13,8 @@ performance metrics and trends, enabling stakeholders to monitor and analyze cre
 - Dynamic filtering and drill-through reports
 - Usage of DAX Queries.
 
-# Dataset: Extracted from github
+# Dataset: 
+- Gathered credit card data online
 - Created a database and tables
 - imported the csv files into respectie tables
 
